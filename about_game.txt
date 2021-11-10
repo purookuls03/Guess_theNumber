@@ -1,0 +1,15 @@
+ A number guessing game is a simple guessing game where a user is supposed to guess a number between 0 and 10  in a maximum of 4 attempts.
+ 
+ Step 1: Run the program and make it .exe file.
+ 
+ Step 2: Now run the .exe file
+ 
+ Step 3: Type the guess number between 1-10.
+ 
+ Step 4: If your guessing number is lower than computer number it returns "The secret number is  
+		 lower" and vice-versa.
+
+ Step 5: If you guess the correct number thenitreturns"Congratulations : you guess the correct 
+		 number".
+		
+ Step 6: If you failed to do so then it returns "You loose".
